@@ -1,0 +1,24 @@
+.img{ 
+    width: 50vh;
+}
+
+.tittle{
+    font-weight: bold;
+ 
+
+}
+
+.container{
+    background-color: #d7e1e7;
+    border-radius: 1rem;
+    display: flex;
+    gap: 4rem;
+    height: 30rem;
+    margin: 2rem auto;
+    padding: 4rem;
+    width: 50rem;
+}
+
+.container h2{
+    font-size: 1.75rem;
+}
